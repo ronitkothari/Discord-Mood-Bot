@@ -15,9 +15,7 @@
     <br /> <a href="https://www.domain.com/">Domain.com</a> | <a href="https://www.ibm.com/watson/services/tone-analyzer/">IBM Watson Tone Analyzer</a>
     <br />
     <br />
-    <a href="https://github.com/Ti1mmy/CheckinWithme/blob/main/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+ 
    
 </p>
 
@@ -254,21 +252,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-<!-- CONTACT -->
-## Contact
-
-Eric Ji - [Linkedin](https://www.linkedin.com/in/eric-ji-0a8793212/) - eric868.ji@gmail.com
-
-Katherine Li [Linkedin](https://www.linkedin.com/in/k-atherine-li/) - katherineli03.kkl@gmail.com
-
-Timothy Zheng - [Linkedin](https://www.linkedin.com/in/timothyzheng/) - tim123643@gmail.com
-
-Yang Xu - [Linkedin](https://www.linkedin.com/in/yang-xu-584b0920b/) - boyangfu1991@gmail.com
-
-
-Devpost Link: [https://devpost.com/software/check-in-with-me](https://devpost.com/software/check-in-with-me)
 
 
 
